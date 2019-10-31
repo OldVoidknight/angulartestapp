@@ -1,0 +1,17 @@
+.contact-page{
+    width:70%;
+    margin-left: 20px;
+    margin-top:20px;
+    border: 1px dashed silver;
+}
+
+.contact-us{
+    display: flex;
+    flex-direction: column;
+    width:90%;
+    margin-left:50px;
+}
+
+.contact-us input{
+    width:300px;
+}

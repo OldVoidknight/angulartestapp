@@ -1,0 +1,29 @@
+
+.banner{
+    display: flex;
+    height:50px;
+    width:100%;
+    background:blue;
+    color:whitesmoke;
+    justify-content: space-around;
+    align-items: center;
+    margin:0;
+}
+
+.banner-icon{
+    background-color: yellow;
+    border:1px solid white;
+    width: 3%;
+    height:100%;
+}
+
+.nav-links a{
+    margin-left:10px;
+    outline:none;
+    text-decoration: none;
+    color:white;
+}
+
+.nav-links a:hover{
+    color:red;
+}
